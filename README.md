@@ -68,7 +68,7 @@ plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="green",la
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="magenta",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
-
+```
 ## Output:
 <img width="924" height="476" alt="image" src="https://github.com/user-attachments/assets/58992915-1800-4418-af38-4fd494ad55ed" />
 
